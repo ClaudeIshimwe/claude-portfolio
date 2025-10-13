@@ -3,11 +3,11 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://monumental-chimera-b1ace3.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Claude Ishimwe',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Claude Ishimwe | Cloud Engineer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Azure Cloud Engineer specializing in scalable cloud infrastructure, identity and access management, and automated deployment workflows.`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
@@ -15,7 +15,8 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://github.com/RyanFitzgerald/devfolio`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm an Azure Cloud Engineer with extensive experience designing and managing cloud infrastructure. I specialize in Azure administration, including compute and networking, storage solutions, identity and access management, monitoring and optimization, and infrastructure automation through ARM templates, Bicep, PowerShell, and Azure CLI.
+I'm passionate about infrastructure as code, cloud security best practices, and fostering collaborative environments that help teams deliver reliable, cost-effective cloud solutions.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
