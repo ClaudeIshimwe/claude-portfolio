@@ -59,18 +59,26 @@ I'm passionate about infrastructure as code, cloud security best practices, and 
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Cloud Platform',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Microsoft Azure (Compute, Storage, Networking, IAM) 
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'DevOps & Automation
+        description: 'Azure CLI, Terraform, GitHub Actions, Docker',
       },
       {
-        name: 'Other',
+        name: 'Scripting & Monitoring
+        description: 'PowerShell, Bash, Azure Monitor, Log Analytics',
+      },
+      {
+        name: 'FinOps & Cloud Governance',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Cost Analysis, Budgeting, Tagging Policies',
+      },
+      {
+        name: 'Business & Technical Delivery
+        description: 'Requirementss Translation, Stakeholder Management, Compliance (KYC/AML)
       },
     ],
   },
