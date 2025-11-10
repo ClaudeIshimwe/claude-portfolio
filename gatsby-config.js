@@ -11,9 +11,9 @@ module.exports = {
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/RyanFitzgerald`,
+    github: `https://github.com/ClaudeIshimwe`,
     // Optional: LinkedIn account URL
-    linkedin: `https://github.com/RyanFitzgerald/devfolio`,
+    linkedin: `https://github.com/ClaudeIshimwe`,
     // Content of the About Me section
     about: `I'm an Azure Cloud Engineer with extensive experience designing and managing cloud infrastructure. I specialize in Azure administration, including compute and networking, storage solutions, identity and access management, monitoring and optimization, and infrastructure automation through ARM templates, Bicep, PowerShell, and Azure CLI.
 I'm passionate about infrastructure as code, cloud security best practices, and fostering collaborative environments that help teams deliver reliable, cost-effective cloud solutions.`,
@@ -41,18 +41,18 @@ I'm passionate about infrastructure as code, cloud security best practices, and 
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
+        name: 'TRCS',
+        description: 'Azure Cloud Engineer, February 2023 - Present',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
+        name: 'Genesis Global Limited',
+        description: 'Technical Business Analyst, Sept 2019 - December 2022',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
+        name: 'Orca Money',
+        description: 'Business Systems Analyst, March 2017 - October 2018',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
